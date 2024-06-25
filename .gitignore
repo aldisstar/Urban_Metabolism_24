@@ -1,0 +1,5 @@
+# Ignorar el directorio 'env' (entorno virtual de Python)
+env/
+
+# Ignorar el directorio 'Data' (datos utilizados)
+Data/
