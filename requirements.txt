@@ -3,3 +3,7 @@ pandas
 matplotlib
 requests
 scikit-learn
+geopandas
+seaborn
+statsmodels
+sympy
